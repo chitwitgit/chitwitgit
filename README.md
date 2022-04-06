@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Chit's profile 
+## Chit's profile 
 
 I am a coder from Hong Kong that loves problem solving. I have some basic knowledge in neural networks and python libraries such as numpy and pandas. 
 
