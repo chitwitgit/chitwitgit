@@ -1,7 +1,5 @@
 ## Chit's profile 
 
-I am a coder from Hong Kong that loves problem solving. I have some basic knowledge in neural networks and python libraries such as numpy and pandas. 
-
 ```python
 sentences=[
 	'chit',
@@ -17,5 +15,3 @@ for i in sentences:
 	if i[0]=='g':
 		print(f'{i}: this one is self explanatory. it ends with \'it\'')
 ```
-
-- 🌱 I’m currently learning javascript
